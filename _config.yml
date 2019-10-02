@@ -1,11 +1,11 @@
 # Site settings
 title: 小康00010
 SEOTitle: XiaoKang00010's Blog | Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg-bilibili.jpg
 email: zhouyongkang4321@gmail.com
 description: "Creeper?"
 keyword: "XiaoKang00010, Blog"
-url: "http://xiaokang00010.tk"          # your host, for absolute URL
+url: "https://xiaokang00010.tk"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiaokang00010/xiaokang00010.github.io.gitt" # you code repository
 
