@@ -96,19 +96,4 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "Bilibili·XiaoKang00010"
-        href: "https://space.bilibili.com/151235443"
-    },{
-        title: "Github",
-        href: "http://github.com/XiaoKang00010"
-    },{
-        title: "Tieba",
-        href: "https://tieba.baidu.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+
