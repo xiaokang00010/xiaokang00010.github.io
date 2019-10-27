@@ -5,9 +5,9 @@ header-img: img/home-background.jpg
 email: zhouyongkang4321@gmail.com
 description: "Creeper?"
 keyword: "XiaoKang00010, Blog"
-url: "https://xiaokang00010.tk"          # your host, for absolute URL
+url: "https://github.00010blog.tk"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xiaokang00010/xiaokang00010.github.io.gitt" # you code repository
+github_repo: "https://github.com/xiaokang00010/xiaokang00010.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
