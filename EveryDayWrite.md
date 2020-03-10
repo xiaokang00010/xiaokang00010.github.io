@@ -1,5 +1,5 @@
 ---
-layout: _posts
+layout: post
 title: 随便写写
 subtitle: 记录每日的心情 :)
 date: 2020-03-10
