@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: e27fa9ba36b4690cba52                         #生成的clientID
-  clientSecret: b5c3f2ddb91741f49839ae4abd179ccbabeffa7f    #生成的clientSecret
+  clientID: 5f735bda28ccc13242e1                         #生成的clientID
+  clientSecret: cb1ba2fff94c54a8dbec24dfb5e8a619ac9fe920    #生成的clientSecret
   repo: xiaokang00010.github.io    #仓库名称
   owner: xiaokang00010    #github用户名
   admin: xiaokang00010
