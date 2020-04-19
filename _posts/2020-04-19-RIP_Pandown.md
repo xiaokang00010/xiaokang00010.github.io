@@ -6,7 +6,7 @@ tags:
 date: 2020-04-19
 title: PanFakeServer
 subtitle: 谨以此软件纪念PanDownload
-image: //www.00010.ml/img/hello-world.jpg
+image: //www.00010.ml/img/404-bg.jpg
 ---
 
 # PanFakeServer
@@ -14,7 +14,7 @@ image: //www.00010.ml/img/hello-world.jpg
 R.I.P PanDownload...
 
 # 使用说明
-1. 下载[服务器响应设置](https://www.00010.ml/fileserv/response.txt)保存到文件目录
+1. 下载PanFakeServer
 2. 用记事本打开C:\Windows\System32\drivers\etc\hosts文件,加入数据"127.0.0.1 pandownload.com"到文件内.
 3. 打开软件，勾选Proxy offline.
 4. 打开pandownload
