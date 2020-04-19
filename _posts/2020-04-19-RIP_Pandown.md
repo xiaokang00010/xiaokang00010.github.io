@@ -19,5 +19,5 @@ R.I.P PanDownload...
 4. 打开pandownload
 
 # Download
-[Slot1 - Github](https://www.00010.ml/fileserv/PanFake/PanFake.zip)
-[Slot2 - USA](http://cloud.00010.ml/panfake/panfake-1-0.zip)
+[Slot1 - Github](https://www.00010.ml/fileserv/panfake-1-0.zip)
+[Slot2 - USA](http://mycloud.00010.ml/panfake/panfake-1-0.zip)
