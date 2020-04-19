@@ -6,7 +6,7 @@ tags:
 date: 2020-04-19
 title: PanFakeServer
 subtitle: 谨以此软件纪念PanDownload
-image: //www.00010.ml/img/404-bg.jpg
+header-img: img/404-bg.jpg
 ---
 
 # PanFakeServer
