@@ -2,7 +2,7 @@
 layout:     post
 title:      在kali环境下搭建云服务器及网盘
 subtitle:   "前情提要: 用树莓派搭建一个小型家庭NAS+网盘"
-date:       2019-10-02
+date:       2021-5-24
 author:     XiaoKang00010
 header-img: img/404-bg.jpg
 catalog: true
