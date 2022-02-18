@@ -5,7 +5,7 @@ header-img: img/home-background.jpg
 email: zhouyongkang4321@gmail.com
 description: "Creeper?"
 keyword: "XiaoKang00010, Blog"
-url: "https://gh.xiaokang00010.top"          # your host, for absolute URL
+url: "https://gh.xiaokang00010.top/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiaokang00010/xiaokang00010.github.io.git" # you code repository
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:
+zhihu_username:     xiao-kang-00010
 github_username:    xiaokang00010
 facebook_username:
 jianshu_username:
