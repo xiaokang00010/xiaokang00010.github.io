@@ -3,12 +3,12 @@
     "title": "Xiaokang00010's Blog",
     "author": "Xiaokang00010 <3134714226@qq.com>",
     "version": "1.7.0",
-    "homepage": "https://gh.xiaokang00010.top",
+    "homepage": "https://xiaokang00010.top",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
+        "url": "https://github.com/xiaokang00010/xiaokang00010.github.io"
     },
-    "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
+    "bugs": "https://github.com/xiaokang00010/xiaokang00010.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-contrib-less": "~0.11.4",

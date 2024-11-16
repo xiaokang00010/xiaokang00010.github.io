@@ -5,7 +5,7 @@ header-img: img/home-background.jpg
 email: zhouyongkang4321@gmail.com
 description: "Creeper?"
 keyword: "XiaoKang00010, Blog"
-url: "https://gh.xiaokang00010.top/"          # your host, for absolute URL
+url: "https://xiaokang00010.top/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiaokang00010/xiaokang00010.github.io.git" # you code repository
 
@@ -58,8 +58,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: bdc23f210caa97fa6825                         #生成的clientID
-  clientSecret:  5b7146cba83a597a758047593fb15ad46031a075    #生成的clientSecret
+  clientID: 5f735bda28ccc13242e1                         #生成的clientID
+  clientSecret: 55aa0a6a947c39d900959cb14d7ecd0d6b9fa32b    #生成的clientSecret
   repo: xiaokang00010.github.io    #仓库名称
   owner: xiaokang00010    #github用户名
   admin: xiaokang00010
