@@ -2,7 +2,7 @@
 layout:     post
 title:      "哲学随笔：西西弗与逐火旅程"
 subtitle:   "Philosophical Essay: The Story of Sisyphus and the Flame-chasing Journey"
-date:       2025-04-12
+date:       2025-04-11
 author:     XiaoKang00010
 header-img: img/FateIsAbsurd.jpg
 catalog: true
