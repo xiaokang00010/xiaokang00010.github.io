@@ -7,7 +7,7 @@ author:     XiaoKang00010
 header-img: img/FateIsAbsurd.jpg
 catalog: true
 tags:
-    - "哲学随笔"
+    - "随笔"
     - "西西弗"
     - "崩坏：星穹铁道"
     - "逐火旅程"
